@@ -1,7 +1,7 @@
 <h3 align="center">👋 Hi there! I'm Lexi</h3>
 <p align="center">
   <a href="#">Website (coming soon)</a> •
-  <a href="https://twitter.com/__lexiward">Twitter</a>
+  <a href="https://twitter.com/__lexaward">Twitter</a>
 </p>
 
 ---
@@ -15,6 +15,6 @@
 - 🔭 I’m currently working on a spotify application to sort your saved songs into playlists based on energy/danceablity and genre.
 - 🌱 I’m currently learning frontend web development.
 - 💬 Ask me about music and production!
-- 📫 How to reach me: <a href="https://twitter.com/__lexiward">@__lexiward</a>
+- 📫 How to reach me: <a href="https://twitter.com/__lexaward">@__lexaward</a>
 - 😄 Pronouns: She/Her
 -->
